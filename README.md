@@ -11,4 +11,4 @@ in Java Standard Edition API?
 
 ## How to run this program?
 type `java -cp out/artifacts/Reflection5_jar/Reflection5.jar org.example.Main {N}`
-in CMD. N is the top N types/methods.
+in CMD. `{N}` is the top `{N}` types/methods and should be an integer value.
