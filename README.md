@@ -10,5 +10,5 @@ in Java Standard Edition API?
 *N* is given as an argument to the program.
 
 ## How to run this program?
-type `java -cp out/artifacts/Reflection5_jar/Reflection5.jar org.example.Main {N}`
+type `java -cp out/artifacts/Reflection5_jar/Reflection5.jar Main {N}`
 in CMD. `{N}` is the top `{N}` types/methods and should be an integer value.
