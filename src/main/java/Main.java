@@ -1,4 +1,4 @@
-package org.example;
+package reflect;
 
 import java.io.IOException;
 import java.lang.reflect.Method;
